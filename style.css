@@ -1,0 +1,47 @@
+.index{
+ background-color:lavenderblush;
+}
+.maininfo{
+  text-align: center;
+  border-style: solid;
+  margin: 0%;
+}
+.title{
+ color: blueviolet;
+ text-align: center;
+}
+.nav a{
+ background-color: purple;
+ color: pink;
+ text-decoration: none;
+ padding: 16px 40px ;
+ text-align: center;
+}
+.nav a:active{
+color: purple; 
+background-color: pink;
+}
+.nav a:hover{
+ color: purple;
+ background-color: pink;
+}
+.pictures img{
+  display: flexbox;
+  width: 100%;
+  margin: 0%;
+}
+.infoo{
+  text-align: center;
+ background-color: ivory;
+ margin: 0%;
+ border-style: solid;
+}
+.achievements{
+  text-align: center;
+  background-color: snow;
+}
+.story{
+  text-align: center;
+  background-color: linen;
+}
+
